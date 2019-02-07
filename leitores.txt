@@ -1,7 +1,3 @@
 BANCO DE DADOS: LEITORES
 --------------------------------------------------------
 LEITORES CADASTRADOS: 
-MATEUS
-RUA COMEDOR DE CU DE CURIOSO
-2102 7070
--------------------------------------------------------------------------
